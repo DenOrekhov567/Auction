@@ -1,0 +1,12 @@
+name: Auction
+
+main: dev.denny.auction.AuctionPlugin
+api: 1.0.0
+version: 1.0-release
+
+depend:
+  - DataManager
+  - Database
+  - FakeInventories
+  - Pattern
+  - Account
