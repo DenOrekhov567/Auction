@@ -1,2 +1,2 @@
 # Auction
-Плагин для PowerNukkitX
+Плагин, разработанный под [PowerNukkitX](github.com/PowerNukkit/PowerNukkit)
